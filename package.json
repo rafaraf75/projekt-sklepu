@@ -20,7 +20,7 @@
     "watch:sassprefixer": "onchange sass/*.scss -- npm run build-dev"
   },
   "keywords": [],
-  "author": "Raf",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.2.4",
